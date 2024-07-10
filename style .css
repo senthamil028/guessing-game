@@ -1,0 +1,53 @@
+body{
+    background:url('https://wallpapers.com/images/hd/forest-tree-summer-sun-0wdwtdt9xzcm91b1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main{
+    height: 450px;
+    width: 700px;
+    border: 5px  solid white;
+    margin: auto;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+    background: linear-gradient(90deg,lightgreen,green,white,skyblue,white,yellow,orange,red,white);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+#rules{
+    text-align: justify;
+    margin-left: 125px;
+    color: black;
+    font-style: oblique;
+}
+button{
+    border: 2px solid black;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 30px;
+    width: 70px;
+}
+h2{
+    font-style: italic;
+    color: black;
+
+}
+#btn{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+h3{
+    color: black;
+}
